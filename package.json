@@ -2,7 +2,11 @@
   "name": "react-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://beleren.github.io/Noob",
   "dependencies": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "gh-pages": "^2.0.1",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
     "react-scripts": "2.1.8"
