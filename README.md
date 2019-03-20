@@ -1,3 +1,12 @@
+## Brainstorming
+
+- Follow Mosh's guide and implement Redux after that;
+- Apply CSS with no frameworks so i can practice;
+- Maybe make it a blog of my life(?);
+- Implement multilanguage web app;
+- Study frontend testing;
+- etc;
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
