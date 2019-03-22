@@ -27,11 +27,7 @@ class Header extends Component {
           <a href="#">News</a>
           <a href="#">Contact</a>
           <a href="#">About</a>
-          <a
-            href="javascript:void(0);"
-            className="icon"
-            onClick={this.myFunction}
-          >
+          <a className="icon" onClick={this.myFunction}>
             <i className="fa fa-bars" />
           </a>
         </div>
