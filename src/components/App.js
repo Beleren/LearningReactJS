@@ -1,11 +1,13 @@
 import React, { Component } from "react";
-import logo from "./le-potato.jpg";
-import "./App.css";
+import logo from "../le-potato.jpg";
+import "../App.css";
+import Header from "./Header";
 
 class App extends Component {
   render() {
     return (
       <div className="App">
+        <Header />
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>Vamos ver o que vai dar essa bagaça.</p>
