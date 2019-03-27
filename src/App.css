@@ -3,10 +3,17 @@
 }
 
 .App-logo {
-  animation: App-logo-spin infinite 20s linear;
+  animation: App-logo-spin infinite 5s linear;
   height: 40vmin;
   pointer-events: none;
   width: 20%;
+  height: auto;
+}
+
+.fuba {
+  animation: fuba-alternate infinite 5s linear;
+  position: relative;
+  width: 30%;
   height: auto;
 }
 
@@ -23,6 +30,25 @@
 
 .App-link {
   color: #61dafb;
+}
+
+/* https://codepen.io/crystalprestonwatson/post/recreating-the-office-dvd-menu-using-css-animations */
+@keyframes fuba-alternate {
+  0% {
+    left: 0%;
+  }
+  25% {
+    left: 35%;
+  }
+  50% {
+    left: 70%;
+  }
+  75% {
+    left: 35;
+  }
+  100% {
+    left: 0%;
+  }
 }
 
 @keyframes App-logo-spin {

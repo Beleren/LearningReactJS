@@ -22,7 +22,8 @@ class Header extends Component {
         />
         <div className="topnav" id="myTopnav">
           <NavLink to="/">Home</NavLink>
-          <NavLink to="/foo">Teste 1</NavLink>
+          <NavLink to="/foo">Foo</NavLink>
+          <NavLink to="/ba">Ba</NavLink>
           <a className="icon" onClick={this.myFunction}>
             <i className="fa fa-bars" />
           </a>
