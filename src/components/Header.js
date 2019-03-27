@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-
+import { NavLink } from "react-router-dom";
 class Header extends Component {
   state = {};
 
@@ -21,12 +21,8 @@ class Header extends Component {
           href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
         />
         <div className="topnav" id="myTopnav">
-          <a href="#" className="active">
-            Home
-          </a>
-          <a href="#">News</a>
-          <a href="#">Contact</a>
-          <a href="#">About</a>
+          <NavLink to="/">Home</NavLink>
+          <NavLink to="/foo">Teste 1</NavLink>
           <a className="icon" onClick={this.myFunction}>
             <i className="fa fa-bars" />
           </a>
