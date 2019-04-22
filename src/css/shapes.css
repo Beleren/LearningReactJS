@@ -1,0 +1,7 @@
+.triangle-down {
+  width: 0;
+  height: 0;
+  border-left: 3vw solid transparent;
+  border-right: 3vw solid transparent;
+  border-top: 6vw solid rgb(255, 255, 255);
+}

@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import logo from "../resources/images/le-potato.jpg";
-import "../App.css";
+import "../css/App.css";
 
 class Home extends Component {
   render() {
