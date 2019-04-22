@@ -1,15 +1,15 @@
 {
-  "main.css": "/Noob/static/css/main.55f6f2ee.chunk.css",
-  "main.js": "/Noob/static/js/main.b91f24f5.chunk.js",
-  "main.js.map": "/Noob/static/js/main.b91f24f5.chunk.js.map",
+  "main.css": "/Noob/static/css/main.ce7a8c1d.chunk.css",
+  "main.js": "/Noob/static/js/main.a24987de.chunk.js",
+  "main.js.map": "/Noob/static/js/main.a24987de.chunk.js.map",
   "runtime~main.js": "/Noob/static/js/runtime~main.b342dd6a.js",
   "runtime~main.js.map": "/Noob/static/js/runtime~main.b342dd6a.js.map",
-  "static/js/2.28a215d8.chunk.js": "/Noob/static/js/2.28a215d8.chunk.js",
-  "static/js/2.28a215d8.chunk.js.map": "/Noob/static/js/2.28a215d8.chunk.js.map",
+  "static/js/2.de73ba00.chunk.js": "/Noob/static/js/2.de73ba00.chunk.js",
+  "static/js/2.de73ba00.chunk.js.map": "/Noob/static/js/2.de73ba00.chunk.js.map",
   "index.html": "/Noob/index.html",
-  "precache-manifest.4f3ce96a4b1c250cdfb5d6782d2a0e37.js": "/Noob/precache-manifest.4f3ce96a4b1c250cdfb5d6782d2a0e37.js",
+  "precache-manifest.cf4311a300ffb58b4ba7799db0eb0bba.js": "/Noob/precache-manifest.cf4311a300ffb58b4ba7799db0eb0bba.js",
   "service-worker.js": "/Noob/service-worker.js",
-  "static/css/main.55f6f2ee.chunk.css.map": "/Noob/static/css/main.55f6f2ee.chunk.css.map",
+  "static/css/main.ce7a8c1d.chunk.css.map": "/Noob/static/css/main.ce7a8c1d.chunk.css.map",
   "static/media/fuba.jpg": "/Noob/static/media/fuba.245c1f9c.jpg",
   "static/media/le-potato.jpg": "/Noob/static/media/le-potato.f0d3e1fd.jpg"
 }
